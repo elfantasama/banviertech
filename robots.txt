@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://banviertech.netlify.app/sitemap.xml
